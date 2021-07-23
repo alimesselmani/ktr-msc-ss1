@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epitech", "Epitech\Epitech.csproj", "{365B17D9-EABD-4D67-8602-6FC0A114939B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{365B17D9-EABD-4D67-8602-6FC0A114939B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{365B17D9-EABD-4D67-8602-6FC0A114939B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{365B17D9-EABD-4D67-8602-6FC0A114939B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{365B17D9-EABD-4D67-8602-6FC0A114939B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06DE2704-7217-482D-A364-FB103C431607}
+	EndGlobalSection
+EndGlobal

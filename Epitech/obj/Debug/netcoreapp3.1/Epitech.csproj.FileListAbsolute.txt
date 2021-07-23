@@ -1,0 +1,13 @@
+C:\Users\imad.messelmani\source\repos\Epitech\Epitech\bin\Debug\netcoreapp3.1\Epitech.exe
+C:\Users\imad.messelmani\source\repos\Epitech\Epitech\bin\Debug\netcoreapp3.1\Epitech.deps.json
+C:\Users\imad.messelmani\source\repos\Epitech\Epitech\bin\Debug\netcoreapp3.1\Epitech.runtimeconfig.json
+C:\Users\imad.messelmani\source\repos\Epitech\Epitech\bin\Debug\netcoreapp3.1\Epitech.runtimeconfig.dev.json
+C:\Users\imad.messelmani\source\repos\Epitech\Epitech\bin\Debug\netcoreapp3.1\Epitech.dll
+C:\Users\imad.messelmani\source\repos\Epitech\Epitech\bin\Debug\netcoreapp3.1\Epitech.pdb
+C:\Users\imad.messelmani\source\repos\Epitech\Epitech\obj\Debug\netcoreapp3.1\Epitech.csprojAssemblyReference.cache
+C:\Users\imad.messelmani\source\repos\Epitech\Epitech\obj\Debug\netcoreapp3.1\Epitech.AssemblyInfoInputs.cache
+C:\Users\imad.messelmani\source\repos\Epitech\Epitech\obj\Debug\netcoreapp3.1\Epitech.AssemblyInfo.cs
+C:\Users\imad.messelmani\source\repos\Epitech\Epitech\obj\Debug\netcoreapp3.1\Epitech.csproj.CoreCompileInputs.cache
+C:\Users\imad.messelmani\source\repos\Epitech\Epitech\obj\Debug\netcoreapp3.1\Epitech.dll
+C:\Users\imad.messelmani\source\repos\Epitech\Epitech\obj\Debug\netcoreapp3.1\Epitech.pdb
+C:\Users\imad.messelmani\source\repos\Epitech\Epitech\obj\Debug\netcoreapp3.1\Epitech.genruntimeconfig.cache
